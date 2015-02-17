@@ -1,0 +1,5 @@
+{
+	"smtpServer" : "smtp.gmail.com:587",
+	"smtpFromAddress" : "source_email@gmail.com",
+	"smtpFromAddressPassword" : "<put your password here>"
+}

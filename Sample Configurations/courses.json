@@ -1,0 +1,33 @@
+
+[
+	{
+		"url": "url",
+		"name": "course_name",
+		"downloads": [
+						{
+							"url": "url",
+							"name": "<name of resource>",
+							"files": [
+										{
+											"name": "<name of resource>",
+											"directory": "<where you want these files saved>",
+											"format": "<what the file names need to start with>",
+											"extension": "<file extension for the files>"
+										}
+									]
+						},
+						{
+							"url": "url2",
+							"name": "<name of resource>",
+							"files": [
+										{
+											"name": "<name of resource>",
+											"directory": "<where you want these files saved>",
+											"format": "<what the file names need to start with>",
+											"extension": "<file extension for the files>"
+										}
+									]
+						}
+					]
+	}
+]
